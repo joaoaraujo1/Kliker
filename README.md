@@ -1,5 +1,5 @@
 # Kliker
-Kliker is a 2-player game where a player tries to hit his own target ball more times than the opponent. This app was published on the playstore. Below follows the description of the game:
+Kliker is a 2-player game where a player tries to hit his own target ball more times than the opponent. This app was published on Google Playstore. Below follows the description of the game:
 
 This multiplayer game is all about Kliking! Simply choose your side and tap your ball more times than your opponent.
 
